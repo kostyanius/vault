@@ -1,4 +1,4 @@
-kill vault
+pkill vault
 
 rm  -rf  *.zip.* *.zip
 
