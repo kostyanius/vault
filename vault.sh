@@ -3,7 +3,7 @@ pkill vault
 rm  -rf  *.zip.* *.zip
 
 # This is the ABC installing Vault on AWS
-# I am using a CentOS 7 EC2,
+# I am using a CentOS 7
 # I am following https://learn.hashicorp.com/vault/getting-started/install
 
 wget https://releases.hashicorp.com/vault/1.5.0-rc/vault_1.5.0-rc_linux_amd64.zip
